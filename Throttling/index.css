@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+  position: relative;
+}
+
+#point {
+  top: 1rem;
+  left: 1rem;
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  background-color: brown;
+}
